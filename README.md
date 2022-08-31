@@ -15,6 +15,11 @@ When you open your app, there is a brief time while the native app loads Flutter
 ### Usage
 
 **Static Splash Screen** :
+
+<video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+Your browser does not support the video tag.
+</video>
   
 
 ## How it works
