@@ -7,3 +7,6 @@ A splash screen is a graphical control element consisting of a window containing
 ## Flutter specific
 
 When your app is opened, there is a brief time while the native app loads Flutter. By default, during this time, the native app displays a white or black splash screen.
+  To address this problem we can natively add or replace the existing splash screen. Now we have two types of splash screen namely:
+    - Static Splash Screen.
+    - Animated Splash Screen.
